@@ -1,0 +1,33 @@
+Working late nights, impromptu on-call, ticket destroyer... These are the things I think of when Beardsley's name is mentioned.
+Given by Paul Nelson on November 22, 2010
+
+I would like to commend you for taking the initiative and filling a void in the SE technical leadership role in the BING algo transition program. Your tireless efforts are crucial for the success of the program.
+
+Keep up the good work!
+Given by Raman Hariharan on August 20, 2011
+
+Scott has been a lifesaver with the India Search Alliance Ads migration. His readiness to assist with all the myriad of hiccups quickly, cleanly and cheerfully has helped make the whole thing go as painlessly as it has.
+Given by David P Thomas on September 27, 2011
+
+Scott's has quickly become a significant contributor & strong team player helping run search day-to-day operations, thanks for all the efforts & keep up the good work!
+Given by Venkateswaran Udayasankar on September 30, 2011
+
+This team has maniacally focused on desktop and mobile migration of web, image and video search in 40+ global markets from Yahoo’s YST infrastructure to Microsoft’s Bing platform. Project completion will save $150M+ annually in capital expenditure costs. Congratulations!
+Given by Tim Morse on November 2, 2011
+
+Scott is not only extremely competent, but goes out of his way to coordinate and align across groups and functions. He has shown real leadership and been an indispensable member of our extended Unified Gateway team. Thank you Scott!
+Given by Matthew Solovay on December 9, 2011
+
+Scott works tirelessly to get things delivered on time with high quality. He takes the high road and insists on Doing The Right Thing (TM). He proactively catches problems before they become a fire. His latest effort to production harden our YHS infrastructure was critical to the YourWay launch.
+Given by Chris Chan on December 9, 2011
+
+Deployed a patch for Yahoo Search in less than 24 hours that prevented Yahoo! Inc from bleeding 100K a day to Apple Inc. Bravo!
+Given by Deepa Mahalingam on February 24, 2012
+
+Scott is definitely a teammate I can totally trust. The Search FE releases are getting better and better with his contribution and support. I would like to give him a big "THANK YOU!!" and tell him that I (and all of us) really enjoy working with him.
+Given by Cecilia Chen on March 15, 2012
+
+Thank you Scott for your critical help in getting Northstar out in production successfully.
+
+The whole project could not have been done without you. Thank you.
+Given by Libby Lin on March 23, 2012
